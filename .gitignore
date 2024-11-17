@@ -1,0 +1,16 @@
+#排除 .idea/ 目录下所有文件
+.idea/
+#排除  .project 、 .classpath 、 .settings 目录下所有文件
+.project
+.classpath
+.settings/
+#排除  target 目录下所有文件
+target/
+#排除  .mvn 目录下所有文件
+.mvn/
+#排除  .gradle 目录下所有文件
+.gradle/
+.DS_Store
+*.iml
+*.ipr
+*.iws
